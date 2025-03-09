@@ -1,6 +1,6 @@
 module github.com/bpatel8585/learn-go
 
-go 1.23.4
+go 1.24.1
 
 require github.com/nats-io/nats.go v1.37.0
 
